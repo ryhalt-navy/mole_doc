@@ -2,7 +2,7 @@
 
 ![License (CC0)](https://img.shields.io/badge/license-CC0--1.0-brightgreen)
 
-Mole is a tool to assist with execution, data collection, analysis, and reporting for testing and experimentation involving unmanned systems.  This documentation attempts to provide sufficient background to enable using Mole or contributing to its development.
+Mole is a tool to assist with testing and experimentation involving robots and unmanned systems. Is can support test and experiment execution, data collection, analysis, and reporting.  This documentation attempts to provide sufficient background to enable using Mole or contributing to its development.
 
 ## **Requirements**
 1) Docker
